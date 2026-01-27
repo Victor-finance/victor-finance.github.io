@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: In me the tiger sniffs the rose.
+subtitle: 
 
 profile:
   align: right
@@ -38,3 +38,12 @@ I received my *Ph.D.* in Financial Engineering and *M.A.* in Finance from *Renmi
 You can find me at [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=YvSEvQsAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Xingjian-Wang-6?ev=hdr_xprf), [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3063084) and [ORCID](https://orcid.org/0000-0002-8368-5150).
 
 Contact me: **wxj_finance[at]outlook.com**
+
+
+
+
+
+
+
+
+潮生理棹，潮平系缆，潮落浩歌归去。
