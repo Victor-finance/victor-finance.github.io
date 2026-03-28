@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-      <p>Beijing, China</p>
-      <p>wxj_finance[at]outlook.com</p>
-
+      <p>Photographed at </p>
+      <p>Queen Elizabeth Park,</p>
+      <p>Vancouver</p>
 selected_papers: false
 social: true
 
