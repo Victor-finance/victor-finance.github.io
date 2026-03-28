@@ -2,59 +2,34 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle: Assistant Professor, <a href='https://cba.cueb.edu.cn'>College of Business Administration</a>, Capital University of Economics and Business
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-      <p>Photographed at</p> 
-      <p>Queen Elizabeth Park,</p> 
-      <p>Vancouver</p>
+      <p>Beijing, China</p>
+      <p>wxj_finance[at]outlook.com</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-Welcome to my personal website! 
+I am an Assistant Professor at *College of Business Administration, Capital University of Economics and Business*, and a Research Associate at *Institute of International M&As and Investment, Renmin University of China*.
 
-I am an [Assistant Professor](https://cba.cueb.edu.cn/old/szdw/xs/qykcxfzx/146210.htm) at *College of Business Administration, Capital University of Economics and Business*, where I conduct research on **corporate finance, sustainable finance, and political economy**. I also work as a research assoiate at *Institute of International M&As and Investment, Renmin University of China*. 
+My research focuses on **corporate finance**, **sustainable finance**, and **political economy**, with a particular interest in understanding how institutional environments shape corporate and individual financial decision-making. My work has been published in *Journal of Financial Stability*, *International Review of Finance*, and *Research in International Business and Finance*, and presented at conferences including APSA, CICF, and CFAM.
 
-My current research focuses on understanding how corporate and individual decision-making is shaped by modern world. I am particularly interested in the intersection of finance and political economy, exploring how institutional innovations are transforming financial services. My research has been published in ***JFS***, ***IRF***, ***RIBAF***. My working papers has been accepted by prestigious international academic conferences, such as ***APSA***, ***CICF***, ***CFAM***, etc. 
+I received my Ph.D. in Financial Engineering and M.A. in Finance from *Renmin University of China*, and dual B.S. degrees in Applied Mathematics and Finance from *Central University of Finance and Economics*.
 
-I received my *Ph.D.* in Financial Engineering and *M.A.* in Finance from *Renmin University of China*, and *B.S.*s in Applied Mathematics and Finance from *Central University of Finance and Economics*. 
-
-You can find me at [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=YvSEvQsAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Xingjian-Wang-6?ev=hdr_xprf), [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3063084) and [ORCID](https://orcid.org/0000-0002-8368-5150). 
-
-Contact me: **wxj_finance[at]outlook.com** 
-
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- <br>
- 
-
-
-
-
-
-
-
-
-
-潮生理棹，潮平系缆，潮落浩歌归去。
+<p style="text-align: right; color: #999; font-style: italic; margin-top: 2em;">潮生理棹，潮平系缆，潮落浩歌归去。</p>
