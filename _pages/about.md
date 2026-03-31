@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, <a href='https://cba.cueb.edu.cn'>College of Business Administration</a>, Capital University of Economics and Business
+subtitle: /
 
 profile:
   align: right
