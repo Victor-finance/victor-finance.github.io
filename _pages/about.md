@@ -26,7 +26,7 @@ latest_posts:
   limit: 3
 ---
 
-I am an <a href='https://cba.cueb.edu.cn](https://cba.cueb.edu.cn/szdw/qykcxfzx/07b4aa32fb2545319060e1931fdefacb.htm'>Assistant Professor</a> at *College of Business Administration, Capital University of Economics and Business*, and a Research Associate at *Institute of International M&As and Investment, Renmin University of China*.
+I am an [Assistant Professor](https://cba.cueb.edu.cn/szdw/qykcxfzx/07b4aa32fb2545319060e1931fdefacb.htm) at *College of Business Administration, Capital University of Economics and Business*, and a Research Associate at *Institute of International M&As and Investment, Renmin University of China*.
 
 My research focuses on **corporate finance**, **sustainable finance**, and **political economy**, with a particular interest in understanding how institutional environments shape corporate and individual financial decision-making. My work has been published in *Journal of Financial Stability*, *International Review of Finance*, and *Research in International Business and Finance*, and presented at conferences including APSA, CICF, and CFAM.
 
