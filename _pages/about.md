@@ -1,8 +1,8 @@
 ---
 layout: about
 title: About
-permalink: \
-subtitle: \
+permalink: /about
+subtitle: 
 
 profile:
   align: right
