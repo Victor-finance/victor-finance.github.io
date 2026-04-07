@@ -41,4 +41,4 @@ I received my Ph.D. in Financial Engineering and M.A. in Finance from *Renmin Un
 <br>
 <br>
 
-<p style="text-align: left; color: #999; font-style: italic; margin-top: 2em;">潮生理棹，潮平系缆，潮落浩歌归去。</p>
+潮生理棹，潮平系缆，潮落浩歌归去。
